@@ -1,0 +1,26 @@
+154 kategori, 10 tanesi taranacak
+Katalog: 7154 seri
+           SERIE_CODE                                            SERIE_NAME   FREQUENCY_STR  START_DATE    END_DATE
+157   TP.DK.USD.A.YTL                     (USD)  ABD  Doları  (Döviz  Alış)          GÜNLÜK  02-01-1950  02-11-2026
+159   TP.DK.EUR.A.YTL                            (EUR)  Euro  (Döviz  Alış)          GÜNLÜK  04-01-1999  02-11-2026
+4761       TP.APIFON4              TCMB Ağırlıklı Ortalama Fonlama Maliyeti         İŞ GÜNÜ  03-01-2011  30-10-2026
+4883         TP.KTF10                         İhtiyaç Kredisi (TL, Akım, %)  HAFTALIK(CUMA)  04-01-2002  16-10-2026
+4886         TP.KTF12                           Konut Kredisi (TL, Akım, %)  HAFTALIK(CUMA)  04-01-2002  16-10-2026
+4891        TP.KTFTUK  Tüketici Kredisi (İhtiyaç+Taşıt+Konut) (TL, Akım, %)  HAFTALIK(CUMA)  04-01-2002  16-10-2026
+5949         TP.FG.J0                      GENEL (Tüketici) (Arşiv) (Arşiv)           AYLIK  01-01-2003  01-01-2026
+        tufe_2025_100  tufe_2003_100_yeni_grup  tufe_2003_100_arsiv
+ay                                                                 
+2025-5      97.063071                  3089.74              3089.74
+2025-6      98.395995                  3132.17              3132.17
+2025-7     100.421925                  3196.66              3196.66
+2025-8     102.465761                  3261.72              3261.72
+2025-9     105.780006                  3367.22              3367.22
+2026-1     115.730000                  3683.83              3683.83
+2026-2     119.160000                  3793.05                  NaN
+2026-3     121.470000                  3866.74                  NaN
+2026-4     126.550000                  4028.47                  NaN
+2026-5     128.720000                  4097.55                  NaN
+2026-6     129.990000                  4137.93                  NaN
+2026-7     132.310000                  4211.58                  NaN
+2026-8     134.750000                  4289.23                  NaN
+2026-9     137.230000                  4368.35                  NaN

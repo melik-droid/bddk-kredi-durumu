@@ -1,0 +1,53 @@
+=== cip.tuik.gov.tr
+A: 212.174.172.216 
+AAAA: 
+curl-4 http=200 ip=212.174.172.216 dns=0.055866 tcp=0.217699 tls=0.599509 total=0.821247 err=
+curl-6 http=200 ip=::ffff:212.174.172.216 dns=0.004009 tcp=0.157811 tls=0.536099 total=0.686465 err=
+=== data.tuik.gov.tr
+A: 212.174.172.247 
+AAAA: 
+curl-4 http=302 ip=212.174.172.247 dns=0.106652 tcp=0.257522 tls=0.740339 total=0.879751 err=
+curl-6 http=302 ip=::ffff:212.174.172.247 dns=0.004736 tcp=0.143451 tls=0.545425 total=0.733689 err=
+=== veriportali.tuik.gov.tr
+A: 212.174.29.216 
+AAAA: 
+curl-4 http=200 ip=212.174.29.216 dns=0.112554 tcp=0.558327 tls=1.352437 total=1.614023 err=
+curl-6 http=200 ip=::ffff:212.174.29.216 dns=0.001999 tcp=0.160417 tls=0.499742 total=0.737057 err=
+=== nsiws.tuik.gov.tr
+A: 212.174.29.216 
+AAAA: 
+curl-4 http=200 ip=212.174.29.216 dns=0.036157 tcp=0.175673 tls=0.517920 total=2.937343 err=
+curl-6 http=200 ip=::ffff:212.174.29.216 dns=0.011603 tcp=0.163733 tls=0.514645 total=1.019894 err=
+=== www.tuik.gov.tr
+A: 212.174.172.222 
+AAAA: 
+curl-4 http=200 ip=212.174.172.222 dns=0.034574 tcp=0.173039 tls=0.500055 total=1.137086 err=
+curl-6 http=200 ip=::ffff:212.174.172.222 dns=0.003670 tcp=0.137123 tls=0.505384 total=1.197124 err=
+=== evds3.tcmb.gov.tr
+A: 185.98.252.184 
+AAAA: 
+curl-4 http=200 ip=185.98.252.184 dns=0.045815 tcp=0.189829 tls=0.516558 total=0.692702 err=
+curl-6 http=200 ip=::ffff:185.98.252.184 dns=0.004824 tcp=0.136274 tls=0.438529 total=0.666604 err=
+=== www.bddk.org.tr
+A: amanos.bddk.org.tr. 212.175.177.81 
+AAAA: amanos.bddk.org.tr. 
+curl-4 http=200 ip=212.175.177.81 dns=0.034183 tcp=0.200489 tls=0.677852 total=2.729593 err=
+curl-6 http=200 ip=::ffff:212.175.177.81 dns=0.004363 tcp=0.161732 tls=0.510959 total=2.549958 err=
+=== cip.tuik.gov.tr
+   v:NotBefore: Feb 18 00:00:00 2026 GMT; NotAfter: Mar 21 23:59:59 2027 GMT
+   v:NotBefore: Nov  2 12:23:37 2017 GMT; NotAfter: Nov  2 12:23:37 2027 GMT
+subject=C=TR, ST=Ankara, L=Çankaya, O=Türkiye İstatistik Kurumu Başkanlığı (TÜİK), CN=*.tuik.gov.tr
+issuer=C=US, O=DigiCert Inc, OU=www.digicert.com, CN=GeoTrust TLS RSA CA G1
+Protocol: TLSv1.2
+=== veriportali.tuik.gov.tr
+   v:NotBefore: Feb 18 00:00:00 2026 GMT; NotAfter: Mar 21 23:59:59 2027 GMT
+   v:NotBefore: Nov  2 12:23:37 2017 GMT; NotAfter: Nov  2 12:23:37 2027 GMT
+subject=C=TR, ST=Ankara, L=Çankaya, O=Türkiye İstatistik Kurumu Başkanlığı (TÜİK), CN=*.tuik.gov.tr
+issuer=C=US, O=DigiCert Inc, OU=www.digicert.com, CN=GeoTrust TLS RSA CA G1
+Protocol: TLSv1.2
+=== nsiws.tuik.gov.tr
+   v:NotBefore: Feb 18 00:00:00 2026 GMT; NotAfter: Mar 21 23:59:59 2027 GMT
+   v:NotBefore: Nov  2 12:23:37 2017 GMT; NotAfter: Nov  2 12:23:37 2027 GMT
+subject=C=TR, ST=Ankara, L=Çankaya, O=Türkiye İstatistik Kurumu Başkanlığı (TÜİK), CN=*.tuik.gov.tr
+issuer=C=US, O=DigiCert Inc, OU=www.digicert.com, CN=GeoTrust TLS RSA CA G1
+Protocol: TLSv1.2

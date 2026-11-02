@@ -1,0 +1,19 @@
+Katalog: 80 gösterge -> data/raw/tuik_2026-11-01/katalog.csv
+OK ISGD-GK18575-O18504        düzey 3  2022→2025  birim=81  min_dolu=81
+OK ISGD-GK18575-O18504        düzey 2  2014→2025  birim=26  min_dolu=26
+OK ISGD-GK18575-O18506        düzey 3  2022→2025  birim=81  min_dolu=81
+OK ISGD-GK18575-O18506        düzey 2  2014→2025  birim=26  min_dolu=26
+OK INS-GK055-O006             düzey 3  2013→2025  birim=81  min_dolu=81
+OK INS-GK058-O006             düzey 3  2010→2025  birim=81  min_dolu=81
+OK ISKYT-GK378267475-O12101   düzey 3  2009→2024  birim=81  min_dolu=81
+OK ISKYT-GK378267475-O12101   düzey 2  2009→2024  birim=26  min_dolu=26
+OK UHS-GK097-O0011            düzey 3  2000→2024  birim=81  min_dolu=81
+OK UHS-GK096-O0011            düzey 3  2000→2024  birim=81  min_dolu=81
+OK ADNKS-GK137473-O29001      düzey 3  2007→2025  birim=81  min_dolu=81
+OK ADNKS-GK137473-O29001      düzey 2  2007→2025  birim=26  min_dolu=26
+OK ADNKS-GK140832-O29009      düzey 3  2008→2025  birim=81  min_dolu=81
+OK ADNKS-GK140832-O29009      düzey 2  2008→2025  birim=26  min_dolu=26
+OK ses123                     düzey 3  None→None  birim=0  min_dolu=0
+OK ses123                     düzey 4  None→None  birim=0  min_dolu=0
+OK ULS-GK111403-O12001        düzey 3  1995-12→2026-9  birim=81  min_dolu=60
+Bitti: data/raw/tuik_2026-11-01

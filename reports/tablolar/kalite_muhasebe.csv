@@ -1,0 +1,8 @@
+kontrol,sonuc
+Toplam = Nakdi + Takipteki (|fark| > 1 Bin TL olan satır),0.0
+Hesaplanan NPL ile tablo_5 hazır oran arasındaki en büyük fark (puan),0.0001
+"Kredi/mevduat oranları > 100 (beklenebilir, bilgi amaçlı) satır",4310.0
+Takip/performans oranları 0-100 dışında (kredi/mevduat oranları hariç),0.0
+Bireysel krediler toplamı > toplam nakdi kredi satırı,0.0
+Sıfır toplam nakdi kredi satırı,0.0
+Negatif değerli hücre (tüm tablolar),0.0

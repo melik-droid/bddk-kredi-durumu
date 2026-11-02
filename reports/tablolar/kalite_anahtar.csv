@@ -1,0 +1,8 @@
+tablo,satir,il,donem,ilk,son,beklenen_satir,tekrarlanan_anahtar,eksik_donem_(2010-03_sonrasi),plaka_basina_tek_il_adi,il_olmayan_kayit,grup_kod
+tablo_1_krediler,5346,81,66,2010-03,2026-06,5346,0,0,True,0,10001
+tablo_2_mevduat,5346,81,66,2010-03,2026-06,5346,0,0,True,0,10001
+tablo_3_bireysel_bankacilik,5346,81,66,2010-03,2026-06,5346,0,0,True,0,10001
+tablo_4_secilmis_sektorel_krediler,5346,81,66,2010-03,2026-06,5346,0,0,True,0,10001
+tablo_5_oranlar,5346,81,66,2010-03,2026-06,5346,0,0,True,0,10001
+tablo_6_subeler_ve_nufus,5346,81,66,2010-03,2026-06,5346,0,0,True,0,10001
+tablo_7_altin,3564,81,44,2015-09,2026-06,3564,0,2015-09'dan başlıyor,True,0,10001

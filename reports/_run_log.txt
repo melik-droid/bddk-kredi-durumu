@@ -1,0 +1,38 @@
+
+=== 1. Panel, TÜFE zinciri, komşuluk
+    (0.4 s)
+
+=== 2. Kalite kontrolleri
+    (0.1 s)
+
+=== 3. Etiketler
+    (2.0 s)
+
+=== 4. Özellikler
+    (0.0 s)
+
+=== 5. İkili deneyler (3 etiket x 4 özellik seti)
+    E3      i_finturk   LGBM PR-AUC=0.233 ROC=0.574 (17 s)
+    E3      ii_+evds    LGBM PR-AUC=0.228 ROC=0.566 (17 s)
+    E3      iii_+komsu  LGBM PR-AUC=0.236 ROC=0.569 (18 s)
+    E3      iv_+tuik    LGBM PR-AUC=0.247 ROC=0.575 (20 s)
+    E2_0.5  i_finturk   LGBM PR-AUC=0.181 ROC=0.493 (18 s)
+    E2_0.5  ii_+evds    LGBM PR-AUC=0.184 ROC=0.503 (18 s)
+    E2_0.5  iii_+komsu  LGBM PR-AUC=0.187 ROC=0.497 (18 s)
+    E2_0.5  iv_+tuik    LGBM PR-AUC=0.181 ROC=0.499 (19 s)
+    E1_0.5  i_finturk   LGBM PR-AUC=0.291 ROC=0.563 (18 s)
+    E1_0.5  ii_+evds    LGBM PR-AUC=0.298 ROC=0.571 (17 s)
+    E1_0.5  iii_+komsu  LGBM PR-AUC=0.303 ROC=0.573 (17 s)
+    E1_0.5  iv_+tuik    LGBM PR-AUC=0.288 ROC=0.553 (21 s)
+    (217.2 s)
+
+=== 6. Sürekli hedef (E4)
+    (82.9 s)
+
+=== 7. Özet tablolar ve şekiller
+    (0.4 s)
+
+=== 8. Sızıntı denetimi: önem sıralaması (son kat, ana etiket, set iv)
+    (2.9 s)
+
+Bitti. Tablolar: reports/tablolar  Şekiller: reports/figures
